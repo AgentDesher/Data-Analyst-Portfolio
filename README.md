@@ -5,8 +5,8 @@
 
 **Инструменты:** SQL, DataLance.
 
-[Prodject](https://github.com/AgentDesher/Data-Analyst-Portfolio/blob/main/donorSearch/DonorSearch.sql "Код проекта на GitHub")
-[DashBoard](https://datalens.yandex/xukteodgvp00i)
+[Prodject](https://github.com/AgentDesher/Data-Analyst-Portfolio/blob/main/donorSearch/DonorSearch.sql "Код проекта на GitHub"), 
+[DashBoard](https://datalens.yandex/xukteodgvp00i "DashBoard по проекту в DataLance"), 
 [Описание проекта](https://github.com/AgentDesher/Data-Analyst-Portfolio/blob/main/donorSearch/README.md)
 
 
