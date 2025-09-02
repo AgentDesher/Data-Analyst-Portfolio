@@ -5,9 +5,9 @@
 
 **Инструменты:** SQL, DataLance.
 
-Prodject: https://github.com/AgentDesher/Data-Analyst-Portfolio/blob/main/donorSearch/DonorSearch.sql
-DashBoard: https://datalens.yandex/xukteodgvp00i
-Описание проекта: 
+[[https://github.com/AgentDesher/Data-Analyst-Portfolio/blob/main/donorSearch/DonorSearch.sql|Prodject]]
+[[https://datalens.yandex/xukteodgvp00i|DashBoard]]
+[[https://github.com/AgentDesher/Data-Analyst-Portfolio/blob/main/donorSearch/README.md|Описание проекта]]
 
 
 
