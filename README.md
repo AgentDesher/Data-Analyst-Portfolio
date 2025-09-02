@@ -1,3 +1,16 @@
+# Проект № 1
+
+## Анализ вакансий для аналитиков с сайта hh.ru
+
+
+**Инструменты:** SQL, DataLance.
+
+[Prodject](https://github.com/AgentDesher/Data-Analyst-Portfolio/blob/main/analyst_vacancies_hh_ru/analyst_vacancies_hh_ru.sql "Код проекта на GitHub"), 
+[DashBoard](https://datalens.yandex/736dbp9afnq0s "DashBoard по проекту в DataLance"), 
+[Описание проекта](https://github.com/AgentDesher/Data-Analyst-Portfolio/blob/main/analyst_vacancies_hh_ru/README.md)
+
+---
+
 # Проект № 2
 
 ## Анализ данных проекта DonorSearch
