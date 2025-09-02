@@ -9,7 +9,7 @@
 [DashBoard](https://datalens.yandex/736dbp9afnq0s "DashBoard по проекту в DataLance"), 
 [Описание проекта](https://github.com/AgentDesher/Data-Analyst-Portfolio/blob/main/analyst_vacancies_hh_ru/README.md)
 
-![Изображение](https://drive.google.com/file/d/11X9H7TFlg9IF5wbD3ZYTZBKq82Ms6Tf0/view?usp=drive_link)
+![Изображение](https://drive.google.com/file/d/11X9H7TFlg9IF5wbD3ZYTZBKq82Ms6Tf0/view?usp=sharing)
 
 ![Изображение](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1920px-Markdown-mark.svg.png "Логотип Markdown")
 
