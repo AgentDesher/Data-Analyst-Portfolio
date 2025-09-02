@@ -9,8 +9,6 @@
 [DashBoard](https://datalens.yandex/736dbp9afnq0s "DashBoard по проекту в DataLance"), 
 [Описание проекта](https://github.com/AgentDesher/Data-Analyst-Portfolio/blob/main/analyst_vacancies_hh_ru/README.md)
 
-![Изображение](https://www.google.com/imgres?q=donorsearch&imgurl=https%3A%2F%2Fcovid.donorsearch.org%2Fimages%2Ftild3465-3437-4036-b731-386333663634__donorsearch-logo-mai.svg&imgrefurl=https%3A%2F%2Fcovid.donorsearch.org%2F&docid=nbNXus_jsOm0AM&tbnid=6hI2YFj8p0YiyM&vet=12ahUKEwi4qL3U77qPAxVtgv0HHTEzCtYQM3oECB0QAA..i&w=800&h=213&hcb=2&ved=2ahUKEwi4qL3U77qPAxVtgv0HHTEzCtYQM3oECB0QAA)
-
 ![Изображение](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1920px-Markdown-mark.svg.png "Логотип Markdown")
 
 # Проект № 2
