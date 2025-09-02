@@ -9,7 +9,7 @@
 [DashBoard](https://datalens.yandex/736dbp9afnq0s "DashBoard по проекту в DataLance"), 
 [Описание проекта](https://github.com/AgentDesher/Data-Analyst-Portfolio/blob/main/analyst_vacancies_hh_ru/README.md)
 
-![текст](https://disk.yandex.ru/client/disk/%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8%20%D0%B4%D0%BB%D1%8F%20GitHub?idApp=client&dialog=slider&idDialog=%2Fdisk%2F%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8%20%D0%B4%D0%BB%D1%8F%20GitHub%2Fdonorsearch.jpg)
+![текст](https://disk.yandex.ru/i/vsGwQN1C5o5vwg)
 
 # Проект № 2
 
