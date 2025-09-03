@@ -22,7 +22,7 @@
 [DashBoard](https://datalens.yandex/xukteodgvp00i "DashBoard по проекту в DataLance"), 
 [Описание проекта](https://github.com/AgentDesher/Data-Analyst-Portfolio/blob/main/donorSearch/README.md)
 
-![Изображение](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1920px-Markdown-mark.svg.png "Логотип Markdown")
+![Изображение](https://disk.yandex.ru/i/vsGwQN1C5o5vwg)
 
 
 
