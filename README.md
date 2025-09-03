@@ -9,7 +9,7 @@
 [DashBoard](https://datalens.yandex/736dbp9afnq0s "DashBoard по проекту в DataLance"), 
 [Описание проекта](https://github.com/AgentDesher/Data-Analyst-Portfolio/blob/main/analyst_vacancies_hh_ru/README.md)
 
-![Изображение](https://national-expertise.ru/wp-content/uploads/2018/10/mat_94497.png)
+![Изображение](https://s0.rbk.ru/v6_top_pics/media/img/8/97/347193150393978.jpeg)
 
 # Проект № 2
 
