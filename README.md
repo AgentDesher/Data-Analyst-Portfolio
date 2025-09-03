@@ -22,7 +22,7 @@
 [DashBoard](https://datalens.yandex/xukteodgvp00i "DashBoard по проекту в DataLance"), 
 [Описание проекта](https://github.com/AgentDesher/Data-Analyst-Portfolio/blob/main/donorSearch/README.md)
 
-![Изображение](https://disk.yandex.ru/i/vsGwQN1C5o5vwg)
+![Изображение](https://media-leader.ru/netcat_files/12/5/image1.jpg)
 
 
 
