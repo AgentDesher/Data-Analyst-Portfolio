@@ -14,7 +14,7 @@
 [DashBoard](https://datalens.yandex/736dbp9afnq0s "DashBoard по проекту в DataLance"), 
 [Описание проекта](https://github.com/AgentDesher/Data-Analyst-Portfolio/blob/main/analyst_vacancies_hh_ru/README.md)
 
-<img src="https://s0.rbk.ru/v6_top_pics/media/img/8/97/347193150393978.jpeg" width="300" alt="Логотип hh.ru">
+<img src="https://s0.rbk.ru/v6_top_pics/media/img/8/97/347193150393978.jpeg" height="300" alt="Логотип hh.ru">
 
 # Проект № 2
 
@@ -27,7 +27,7 @@
 [DashBoard](https://datalens.yandex/xukteodgvp00i "DashBoard по проекту в DataLance"), 
 [Описание проекта](https://github.com/AgentDesher/Data-Analyst-Portfolio/blob/main/donorSearch/README.md)
 
-<img src="https://media-leader.ru/netcat_files/12/5/image1.jpg" height="300" alt="Логотип donorsearch">
+<img src="https://media-leader.ru/netcat_files/12/5/image1.jpg" width="300" alt="Логотип donorsearch">
 
 # Проект № 3
 
