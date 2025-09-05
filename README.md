@@ -27,7 +27,7 @@
 [DashBoard](https://datalens.yandex/xukteodgvp00i "DashBoard по проекту в DataLance"), 
 [Описание проекта](https://github.com/AgentDesher/Data-Analyst-Portfolio/blob/main/donorSearch/README.md)
 
-![Изображение](https://media-leader.ru/netcat_files/12/5/image1.jpg)
+<img src="https://media-leader.ru/netcat_files/12/5/image1.jpg" height="300" alt="Логотип donorsearch">
 
 # Проект № 3
 
