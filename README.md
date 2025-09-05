@@ -36,7 +36,7 @@
 
 **Инструменты:** Python, Jupyter Notebook
 
-[Prodject]( "[Код проекта на GitHub](https://github.com/AgentDesher/Data-Analyst-Portfolio/tree/main/msk-cafe-restaurant)")
+[Prodject](https://github.com/AgentDesher/Data-Analyst-Portfolio/tree/main/msk-cafe-restaurant "Код проекта на GitHub"), 
 
 <img src="https://www.restoclub.ru/uploads/articleinner_thumbnail_big/4/8/9/e/489e595ac4cf451898c9a7bc046e7e1e.jpg" height="300" alt="Фото кафе на красной площади">
 
